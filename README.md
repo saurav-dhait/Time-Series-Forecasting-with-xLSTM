@@ -3,7 +3,7 @@ This repository contains Python code for experimenting with different LSTM archi
 
 ## Project Structure
 
-- `main.py`: This is the main script that contains the code for predicting results with xLSTM, sLSTM, mLSTM nad LSTM.
+- `main.py`: This is the main script that contains the code for predicting results with xLSTM, sLSTM, mLSTM and LSTM.
 - `xLSTM.py`: This file contains code for xLSTM, sLSTM and mLSTM.
 - `rnn.py`: This file contains RNN code.
 
@@ -13,7 +13,6 @@ This repository contains Python code for experimenting with different LSTM archi
 - Loading and preprocessing the dataset.
 - Defining and training multiple LSTM architectures (xLSTM, LSTM, sLSTM, mLSTM).
 - Plotting training losses for each model.
-- 
 ### 2. Evaluating Models
 - Generate predictions using trained models.
 - Calculate Mean Absolute Error (MAE) for each model.
