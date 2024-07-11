@@ -21,7 +21,7 @@ This repository contains Python code for experimenting with different LSTM archi
 
 ## Results
 
-![image](https://github.com/saurav-dhait/Time-Series-Forecasting-with-xLSTM/blob/main/assets/graph.jpeg)
+![image](https://github.com/saurav-dhait/Time-Series-Forecasting-with-xLSTM/blob/main/assets/results.jpg)
 ## Requirements
 
 You can install the required packages using the following command:
