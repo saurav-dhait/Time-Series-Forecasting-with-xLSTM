@@ -35,6 +35,7 @@ pip install -r requirements.txt
 ```sh
 python main.py
 ```
-
+## Resources
+Useful xLSTM repository [Link](https://github.com/AI-Guru/xlstm-resources?tab=readme-ov-file)
 ## Acknowledgements
 This project is inspired by various tutorials and resources available for xLSTM.
