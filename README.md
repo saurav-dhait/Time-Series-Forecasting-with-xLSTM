@@ -1,11 +1,12 @@
 # Time Series Forecasting with xLSTM
 This repository contains Python code for experimenting with different LSTM architectures (xLSTM, LSTM, sLSTM, mLSTM) for time series forecasting using various datasets.
 
+PLEASE READ [THIS](https://github.com/saurav-dhait/Time-Series-Forecasting-with-xLSTM/issues/1#issuecomment-2296614984) BEFORE YOU CONTINUE FORWARD.
 ## Project Structure
 
 - `main.py`: This is the main script that contains the code for predicting results with xLSTM, sLSTM, mLSTM and LSTM.
 - `xLSTM.py`: This file contains code for xLSTM, sLSTM and mLSTM.
-- `rnn.py`: This file contains RNN code.
+
 
 ## Workflow
 
